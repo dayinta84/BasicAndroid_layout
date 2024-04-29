@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="AndroidLayouts">
     <shared>
       <config />
     </shared>
   </component>
+=======
+>>>>>>> 01207bfd8fe2bbd1931f1a7abc29a260261ebe1d
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
@@ -40,6 +43,7 @@
       <change beforePath="$PROJECT_DIR$/../../DiceRoller/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../DiceRoller/gradle.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../DiceRoller/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../DiceRoller/gradlew" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../DiceRoller/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../../DiceRoller/settings.gradle.kts" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.gradle/8.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/fileHashes/fileHashes.lock" afterDir="false" />
@@ -50,6 +54,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/tiptime/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tiptime/MainActivity.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+=======
+>>>>>>> 01207bfd8fe2bbd1931f1a7abc29a260261ebe1d
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +72,11 @@
     </projectState>
   </component>
   <component name="Git.Settings">
+<<<<<<< HEAD
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+=======
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+>>>>>>> 01207bfd8fe2bbd1931f1a7abc29a260261ebe1d
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -83,7 +93,11 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
+<<<<<<< HEAD
     "last_opened_file_path": "C:/mobile/basicAndroidKotlin-compose-training-tip-calculatorState/basic-android-kotlin-compose-training-tip-calculator-state"
+=======
+    "last_opened_file_path": "C:/mobile/basic-android-kotlin-compose-training-tip-calculator-state/basic-android-kotlin-compose-training-tip-calculator-state"
+>>>>>>> 01207bfd8fe2bbd1931f1a7abc29a260261ebe1d
   }
 }]]></component>
   <component name="RunManager">
